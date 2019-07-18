@@ -6,9 +6,8 @@ Prefix expressions are those expression in which the operator comes before the o
 
 Few examples are;
 
-INFIX FORM                  PREFIX FORM
-(A+B)                       +AB
-(((((9+8)-7)*6)/5)^4)       ^/*-+987654
+INFIX FORM: (A+B)                    PREFIX FORM: +AB
+INFIX FORM:(((((9+8)-7)*6)/5)^4)     PREFIX FORM:^/*-+987654
 
 ALGORITM TO EVALUATE PREFIX EXPRESSION
 
